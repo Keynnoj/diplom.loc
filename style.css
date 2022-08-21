@@ -1,0 +1,48 @@
+form{
+    width: 500px;
+    
+}
+.header__btn
+{
+    float: right;
+    line-height: 36px;
+    font-family: 'Roboto', sans-serif;
+    color: aliceblue;
+    background-color: rgb(255, 187, 0);
+    padding: 5px 20px 5px 20px;
+    ;
+    
+}
+
+
+
+
+
+
+/* Columns */
+
+.columns {
+  columns: 5;
+  column-gap: 20px;
+}
+
+.columns__item {
+  break-inside: avoid;
+  color: #530003;
+}
+
+.catalog-column {
+  width: 100%;
+  float: left;
+  padding: 2px 0;
+  position: relative
+}
+
+.catalog-column {
+  margin-left: -19px;
+  position: absolute;
+  color: #530003;
+  font-weight: bold
+}
+  
+
